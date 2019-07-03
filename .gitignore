@@ -1,0 +1,18 @@
+## Build generated
+.DS_Store
+build/
+DerivedData
+
+## Various settings
+xcuserdata
+xcshareddata
+
+## Other
+*.xccheckout
+*.xcuserstate
+*.xcscheme
+Manifest.lock
+
+## Pods
+Pods/*
+Voice.Recorder.xcworkspace/contents.xcworkspacedata
